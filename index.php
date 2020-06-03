@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	This is a homepage of my github pages.
+	This is a page  is loading with PHP.
 </h1>
 </body>
 </html>
